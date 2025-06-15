@@ -1,4 +1,4 @@
-# Excel-data-analysis-project
+#  Global Superstore Excel-data-analysis-project
 
 📊 Global Superstore Dashboard
 
